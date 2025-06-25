@@ -94,16 +94,16 @@
 #### 로그인 페이지
 ![logIn](images/logIn.png)
 #### 대시보드 페이지
-![main-1](/uploads/16a06cd63af8e965d7f29d8c67995f36/main-1.png)<br>
-![main-2](/uploads/d7647ba69df1c22ddd8e0311f41309b9/main-2.png)<br>
+![main-1](/images/main-1.png)<br>
+![main-2](/images/main-2.png)<br>
 관리자 요청 클릭 시 화면 <br>
-![admin-req](/uploads/3779e55376b73bcf37a8586cc4800f9b/admin-req.png)
+![admin-req](/images/admin-req.png)
 #### 커뮤니티 페이지
-![commu](/uploads/0863c6369f1a95a355529d06faaaa571/commu.png)
+![commu](/images/commu.png)
 #### 게시글 작성 페이지
-![write](/uploads/ecb1eea4f74688c8e421fb0f1e3d6ee0/write.png) <br>
+![write](/images/write.png) <br>
 주소를 입력하고 검색하면 관련 주소가 표시된 지도 이미지가 보입니다.<br>
-![write-2](/uploads/e07fba075176c22db415b4a141a7ea79/write-2.png)
+![write-2](/images/write-2.png)
 #### 내 정보 페이지
 ![myProfile](images/myProfile.png)
 #### 관리자 페이지 - 1
